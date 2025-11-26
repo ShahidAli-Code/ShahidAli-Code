@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahidali-code" alt="shahidali-code" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs,AngularJs**
+- 🌱 I’m currently learning **Linux,C++**
 
 - 💬 Ask me about **ReactJs,MongoDB**
 
