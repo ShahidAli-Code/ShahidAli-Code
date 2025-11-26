@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Linux,C++**
 
-- 💬 Ask me about **ReactJs,MongoDB**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **assanshahidali@gmail.com**
 
